@@ -30,7 +30,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <section className={`${control} bg-yellow-200`}>2222222222</section>
+      {/* <section className={`${control} bg-yellow-200`}>2222222222</section> */}
     </div>
   )
 }
