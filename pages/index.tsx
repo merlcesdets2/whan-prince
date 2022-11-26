@@ -32,7 +32,7 @@ const Home = () => {
             onClick={() => setIsFlipped(false)}
           ></Image>
         </ReactCardFlip>
-        Whan and Prince
+        <p className="text-right">Whan and Prince</p>
       </div>
     </section>
   )
