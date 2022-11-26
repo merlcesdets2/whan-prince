@@ -8,7 +8,7 @@ const Home = () => {
   const control = 'flex h-screen items-center justify-center text-white snap-start'
   return (
     <section className={`${control} bg-slate-400`}>
-      <div className="mx-0 my-auto content-center">
+      <div className="mx-0 my-auto cursor-pointer content-center">
         <ReactCardFlip
           isFlipped={isFlipped}
           flipDirection="horizontal"
